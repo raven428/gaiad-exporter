@@ -12,7 +12,7 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.0 // indirect
-	github.com/prometheus/promu v0.12.0 // indirect
+	github.com/prometheus/promu v0.13.0 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	github.com/voxelbrain/goptions v0.0.0-20180630082107-58cddc247ea2 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
